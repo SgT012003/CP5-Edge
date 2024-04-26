@@ -59,3 +59,12 @@ void loop()
   }
 }
 ```
+
+# Recebendo Informações
+## Node-Red
+
+![MicrosoftTeams-image](https://github.com/SgT012003/CP5-Edge/assets/82065998/856a7919-13ce-4304-8308-f081b8a495bc)
+
+## MQTT
+
+## TAGO

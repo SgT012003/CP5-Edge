@@ -63,10 +63,12 @@ void loop()
 # Recebendo Informações
 ## Node-Red
 
-![MicrosoftTeams-image (1)](https://github.com/SgT012003/CP5-Edge/assets/82065998/340f0a07-e407-4caa-9d31-254f698560dd)
+![MicrosoftTeams-image (4)](https://github.com/SgT012003/CP5-Edge/assets/82065998/6fc110fd-a510-4628-be0f-a33908483246)
 
 ## MQTT
 
 ![MicrosoftTeams-image (2)](https://github.com/SgT012003/CP5-Edge/assets/82065998/165ca2fb-24ca-47da-9e48-30c08ee9af6d)
 
 ## TAGO
+
+![MicrosoftTeams-image (3)](https://github.com/SgT012003/CP5-Edge/assets/82065998/61cb94da-3130-4de9-a192-a6e308294869)
